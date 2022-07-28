@@ -391,11 +391,6 @@ Popular options include:
      
      **Example:** no-hugetlb
 
- * **kni <n>**
-     Number of KNI interfaces. Refer to the DPDK documentation.
-     
-     **Example:** kni 2
-
  * **uio-driver uio_pci_generic|igb_uio|vfio-pci|auto**
      Change UIO driver used by VPP. Default is *'auto'*.
      
